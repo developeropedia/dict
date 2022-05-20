@@ -1,0 +1,5 @@
+Tweet,Tagged,PRP$,NN,VBZ,NNP,PRP,VBP,IN
+My name is Nimra,"('My name is Nimra', [('My', 'PRP$'), ('name', 'NN'), ('is', 'VBZ'), ('Nimra', 'NNP')])",1,1,1,1,0,0,0
+I live in Mianwali,"('I live in Mianwali', [('I', 'PRP'), ('live', 'VBP'), ('in', 'IN'), ('Mianwali', 'NNP')])",0,0,0,1,1,1,1
+I study in UMW,"('I study in UMW', [('I', 'PRP'), ('study', 'VBP'), ('in', 'IN'), ('UMW', 'NNP')])",0,0,0,1,1,1,1
+I am BSCS student,"('I am BSCS student', [('I', 'PRP'), ('am', 'VBP'), ('BSCS', 'NNP'), ('student', 'NN')])",0,1,0,1,1,1,0
